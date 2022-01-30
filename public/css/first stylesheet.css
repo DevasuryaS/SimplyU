@@ -1,0 +1,82 @@
+header{
+    background-color: black;
+    height: 120px;
+    width: 1707px;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: black;
+    color: #51D4F5;
+    /* stroke: black; */
+    padding-top: 30px;
+    padding-left: 100px;
+    padding-bottom: 30px;
+    font-size: 60px;
+    line-height: 1;
+}
+
+body{
+    background-color: #EFEFE6;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;    color: #040A25;
+    font-size: 25px;
+    line-height: 1.2;
+    margin-left: 200px;
+    margin-top: 250px;
+    font-weight: normal;
+}
+
+span{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #51D4F5;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+#signup{
+    background-color: #72B01D;
+    font-size: 20px;
+    color: #040A25;
+    padding: 5px 10px;
+    font-weight: bold;
+    margin-left: 200px;
+    border-radius: 10%;
+    margin-top: 20px;
+
+}
+
+#signup:hover{
+    background-color: #040A25;
+    color: #72B01D;
+}
+
+#signup:active{
+    background-color: #F4F4ED;
+    color: #51D4F5;
+}
+
+#login{
+    background-color: #72B01D;
+    color: #040A25;
+    font-size: 20px;
+    padding: 5px 15px;
+    font-weight: bold;
+    border-radius: 10%;
+    margin-top: 20px;
+
+}
+
+#login:hover{
+    background-color: #040A25;
+    color: #72B01D;
+}
+
+#login:active{
+    background-color: #F4F4ED;
+    color: #51D4F5;
+}

@@ -1,0 +1,66 @@
+header{
+    background-color: black;
+    height: 120px;
+    width: 1707px;
+    margin-top: 40px;
+}
+.sameLine{
+    float: left;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* background-color: black; */
+    color: #51D4F5;
+    /* stroke: black; */
+    margin-top: 25px;
+    margin-left: 100px;
+    margin-bottom: 30px;
+    font-size: 60px;
+    line-height: 1;
+}
+
+body{
+    background-color: #EFEFE6;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+
+#logout{
+    
+    background-color: #F4F4ED;
+    color: #51D4F5;
+    font-size: 20px;
+    width: 100px;
+    height: 50px;
+    font-weight: bold;
+    border-radius: 2%;
+    margin-top: 32px;
+    margin-left: 1220px;
+    
+}
+
+#logout:hover{
+    background-color: #040A25;
+    color: #72B01D;
+}
+
+#logout:active{
+    background-color: #72B01D;
+    color: #040A25;
+}
+
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 200px;
+    text-align: center;
+    font-size: 40px;
+}
+
+span{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #51D4F5;
+    font-weight: bolder;
+    font-size: 40px;
+}
